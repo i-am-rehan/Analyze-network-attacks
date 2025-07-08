@@ -1,4 +1,6 @@
-# 🛡️ Analyze Network Attacks – SYN Flood Case Study
+
+# 🛡️ SYN Flood Case Study – Network Attack Analysis & Incident Response
+
 
 This project presents a practical analysis of a simulated network-layer attack. The investigation reveals a **SYN flood DoS attack** that disrupted normal employee access to the company's web service.
 

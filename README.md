@@ -35,8 +35,7 @@ As a Security Analyst at a travel agency, I was alerted to a service interruptio
 
 ## 📸 Screenshot (Example)
 
-_Add a screenshot here showing your Wireshark log or file explorer_  
-`→ optional but recommended to visualize your work`
+(https://github.com/i-am-rehan/Analyze-network-attacks/blob/main/Screenshot%202025-07-08%20210838.png)
 
 ---
 

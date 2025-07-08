@@ -35,7 +35,7 @@ As a Security Analyst at a travel agency, I was alerted to a service interruptio
 
 ## 📸 Screenshot (Example)
 
-(https://github.com/i-am-rehan/Analyze-network-attacks/blob/main/Screenshot%202025-07-08%20210838.png)
+https://github.com/i-am-rehan/Analyze-network-attacks/blob/main/Screenshot%202025-07-08%20210838.png
 
 ---
 
